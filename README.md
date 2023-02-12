@@ -10,4 +10,4 @@ mdbook serve
 
 访问 http://localhost:3000 即可阅读
 
-或者访问 [GithubPages](https://endsock.github.io/lengyan/src/SUMMARY.html) 在线阅读
+或者访问 [这里](https://endsock.github.io/lengyan/src/SUMMARY.html) 在线阅读
