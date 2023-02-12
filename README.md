@@ -1,4 +1,4 @@
-# [楞严经新解]([目录 | lengyan](https://endsock.github.io/lengyan/src/SUMMARY.html))
+# [楞严经新解](https://endsock.github.io/lengyan/src/SUMMARY.html)
 
 访问 [这里](https://endsock.github.io/lengyan/src/SUMMARY.html) 在线阅读
 
