@@ -9,6 +9,6 @@
 
 可关注公众号，会同时同步最新内容
 
-![alt 2](https://raw.githubusercontent.com/endsock/lengyan/main/res/foxinlu2.jpg)
-![alt 1](https://raw.githubusercontent.com/endsock/lengyan/main/res/foxinlu1.png)
+![佛心路](https://raw.githubusercontent.com/endsock/lengyan/main/res/foxinlu2.jpg)
+![佛心路](https://raw.githubusercontent.com/endsock/lengyan/main/res/foxinlu1.png)
 
