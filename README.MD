@@ -1,6 +1,6 @@
 # [楞严经新解](https://kimsky.gitbook.io/leng-yan-jing-xin-jie/)
 
-![佛心路](https://raw.githubusercontent.com/endsock/lengyan/main/res/foxinlu2.jpg)
+![佛心路](https://raw.githubusercontent.com/endsock/lengyan/main/res/foxinlu1.png)
 
 访问 [这里](https://kimsky.gitbook.io/leng-yan-jing-xin-jie/) 在线阅读
 
@@ -12,5 +12,5 @@
 
 可关注公众号，会同时同步最新内容
 
-![佛心路](https://raw.githubusercontent.com/endsock/lengyan/main/res/foxinlu1.png)
+![佛心路](https://raw.githubusercontent.com/endsock/lengyan/main/res/foxinlu2.jpg)
 
