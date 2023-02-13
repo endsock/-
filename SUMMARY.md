@@ -5,3 +5,4 @@
   - [阿难遇摩登伽](./vol_1/chapter_2.md)
   - [破计心在身内](./vol_1/chapter_3.md)
   - [破计心在身外](./vol_1/chapter_4.md)
+  - [破计心潜在眼根](./vol_1/chapter_5.md)
