@@ -1,4 +1,7 @@
 # [楞严经新解](https://kimsky.gitbook.io/leng-yan-jing-xin-jie/)
+
+![佛心路](https://raw.githubusercontent.com/endsock/lengyan/main/res/foxinlu2.jpg)
+
 访问 [这里](https://kimsky.gitbook.io/leng-yan-jing-xin-jie/) 在线阅读
 
 此书完全是三位师兄的共同爱好编写，如果时间充裕，最好直接看成观法师与园瑛法师的原著。
@@ -9,6 +12,5 @@
 
 可关注公众号，会同时同步最新内容
 
-![佛心路](https://raw.githubusercontent.com/endsock/lengyan/main/res/foxinlu2.jpg)
 ![佛心路](https://raw.githubusercontent.com/endsock/lengyan/main/res/foxinlu1.png)
 
