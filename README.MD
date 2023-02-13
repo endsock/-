@@ -6,6 +6,6 @@
 
 访问 [这里](https://kimsky.gitbook.io/leng-yan-jing-xin-jie/) 在线阅读
 
-![alt 1](https://raw.githubusercontent.com/endsock/lengyan/main/res/foxinlu1.png)
 可关注公众号，会同时同步最新内容
+![alt 1](https://raw.githubusercontent.com/endsock/lengyan/main/res/foxinlu1.png)
 ![alt 2](https://raw.githubusercontent.com/endsock/lengyan/main/res/foxinlu2.jpg)
