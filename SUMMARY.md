@@ -11,3 +11,4 @@
   - [破计心随和合处而有](./vol_1/chapter_7.md)
   - [破计心在中间](./vol_1/chapter_8.md)
   - [破计心无所在](./vol_1/chapter_9.md)
+  - [世出世间两种根本](./vol_1/chapter_10.md)
