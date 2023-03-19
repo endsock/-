@@ -12,3 +12,6 @@
   - [破计心在中间](./vol_1/chapter_8.md)
   - [破计心无所在](./vol_1/chapter_9.md)
   - [世出世间两种根本](./vol_1/chapter_10.md)
+  - [二度征心](./vol_1/chapter_11.md)
+  - [真心有体](./vol_1/chapter_12.md)
+  - [妄识无体](./vol_1/chapter_13.md)
