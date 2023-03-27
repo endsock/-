@@ -15,3 +15,4 @@
   - [二度征心](./vol_1/chapter_11.md)
   - [真心有体](./vol_1/chapter_12.md)
   - [妄识无体](./vol_1/chapter_13.md)
+  - [阿难求开道眼](./vol_1/chapter_14.md)
