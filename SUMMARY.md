@@ -18,3 +18,5 @@
   - [阿难求开道眼](./vol_1/chapter_14.md)
   - [显示见性是心非眼](./vol_1/chapter_15.md)
   - [显示见性不动](./vol_1/chapter_16.md)
+- 卷二
+  - [显示见性不灭](./vol_2/chapter_17.md)
