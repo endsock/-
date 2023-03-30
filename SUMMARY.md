@@ -20,3 +20,4 @@
   - [显示见性不动](./vol_1/chapter_16.md)
 - 卷二
   - [显示见性不灭](./vol_2/chapter_17.md)
+  - [显示见性不失](./vol_2/chapter_18.md)
