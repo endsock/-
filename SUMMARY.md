@@ -21,3 +21,5 @@
 - 卷二
   - [显示见性不灭](./vol_2/chapter_17.md)
   - [显示见性不失](./vol_2/chapter_18.md)
+  - [显示见性无还](./vol_2/chapter_19.md)
+  - [显示见性不杂](./vol_2/chapter_20.md)
