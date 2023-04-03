@@ -25,3 +25,4 @@
   - [显示见性不杂](./vol_2/chapter_20.md)
   - [显示见性无碍](./vol_2/chapter_21.md)
   - [显示见性不分](./vol_2/chapter_22.md)
+  - [显示见性超情](./vol_2/chapter_23.md)
