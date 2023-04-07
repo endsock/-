@@ -10,8 +10,7 @@
 如有兴趣的同学，可以Star此 [仓库](https://github.com/endsock/lengyan)
 也可以访问 [这里](https://kimsky.gitbook.io/leng-yan-jing-xin-jie/) 在线阅读
 
-圆瑛法师讲义与成观法师义贯下载地址：
-链接: https://pan.baidu.com/s/1Sm0PzeyGOyltp3GD110wpg?pwd=5n8e
+圆瑛法师讲义与成观法师义贯下载地址：[点击下载](https://pan.baidu.com/s/1Sm0PzeyGOyltp3GD110wpg?pwd=5n8e)
 
 可关注公众号，会同时同步最新内容
 
