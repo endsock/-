@@ -26,3 +26,4 @@
   - [显示见性无碍](./vol_2/chapter_21.md)
   - [显示见性不分](./vol_2/chapter_22.md)
   - [显示见性超情](./vol_2/chapter_23.md)
+  - [显示见性离见](./vol_2/chapter_24.md)
