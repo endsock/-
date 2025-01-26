@@ -27,8 +27,8 @@
   - [显示见性不分](./vol_2/chapter_22.md)
   - [显示见性超情](./vol_2/chapter_23.md)
   - [显示见性离见](./vol_2/chapter_24.md)
-  - [别业妄见](./vol_2/chapter_25.md)
-  - [破和合与非和合](./vol_2/chapter_26.md)
+  - [别业妄见](./vol_2/chapter_25)
+  - [破和合与非和合](./vol_2/chapter_26)
 - 卷三
   - [五蕴本如来藏性](./vol_3/chapter_27.md)
   - [六入本如来藏性](./vol_3/chapter_28.md)
