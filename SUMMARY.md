@@ -30,4 +30,9 @@
   - [别业妄见](./vol_2/chapter_25.md)
   - [破和合与非和合](./vol_2/chapter_26.md)
 - 卷三
-  - [一切法本如来藏性](./vol_3/chapter_27.md)
+  - [五蕴本如来藏性](./vol_3/chapter_27.md)
+  - [六入本如来藏性](./vol_3/chapter_28.md)
+  - [十二处本如来藏性](./vol_3/chapter_29.md)
+  - [十八界本如来藏性](./vol_3/chapter_30.md)
+  - [七大本如来藏性](./vol_3/chapter_31.md)
+  - [阿难发大愿](./vol_3/chapter_32.md)
