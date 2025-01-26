@@ -26,3 +26,8 @@ git push -u origin main
 
 ## 总结
 非冲突状态下，每次操作的流程就是 `更新项目` -> `提交项目`
+
+## 原文参考
+```
+https://www.drbachinese.org/online_reading_simplified/sutra_explanation/Shu/ShuSutra.htm#ch2
+```
